@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import Home from './componentes/Home';
 function Receta({ nombre, ingredientes, pasos }) {
